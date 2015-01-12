@@ -6,3 +6,4 @@ Hobbies:
 I enjoy watching all different types of sports- football, basketball, baseball, and golf are my favorites. 
 
 Programming Background:
+My programming experience dates back to when I was 12 and began programming in BASIC. I had a high school level textbook and spent countless hours reading it and writing games and simple programs. I did some programming in MATLAB at UC Davis, which was mainly used for solving engineering problems. Finally, I have C++ experience after taking CS 161 and 162.
