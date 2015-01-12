@@ -7,3 +7,5 @@ I enjoy watching all different types of sports- football, basketball, baseball, 
 
 Programming Background:
 My programming experience dates back to when I was 12 and began programming in BASIC. I had a high school level textbook and spent countless hours reading it and writing games and simple programs. I did some programming in MATLAB at UC Davis, which was mainly used for solving engineering problems. Finally, I have C++ experience after taking CS 161 and 162.
+
+My favorite project in CS 161/162 was the final project for 161. I decided on writing a football simulation where the user is a coach and they would call offensive plays against the computer. I also enjoyed the Game of Life project from 162.
