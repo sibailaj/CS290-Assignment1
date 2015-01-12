@@ -3,7 +3,7 @@ Intro:
 My name is Joe Sibaila. I currently live in Sacramento, California and grew up in nearby Vacaville, California. I attended UC Davis for my undergraduate education and received a BA in Economics. 
 
 Hobbies:
-I enjoy watching all different types of sports- football, basketball, baseball, and golf are my favorites. 
+I enjoy watching all different types of sports- football, basketball, baseball, and golf are my favorites. I also enjoy building computers.
 
 Programming Background:
 My programming experience dates back to when I was 12 and began programming in BASIC. I had a high school level textbook and spent countless hours reading it and writing games and simple programs. I did some programming in MATLAB at UC Davis, which was mainly used for solving engineering problems. Finally, I have C++ experience after taking CS 161 and 162.
